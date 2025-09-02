@@ -8,7 +8,7 @@ def home():
 
 @app.route('/about')
 def about():
-    return "This is a small project created using Flask."
+    return "Hii, I'm Sneha, 21 years old, studying Artificial Intelligence & Data Science."
 
 if __name__ == '__main__':
     app.run(debug=True)
